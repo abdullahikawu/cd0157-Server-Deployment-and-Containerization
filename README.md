@@ -86,3 +86,13 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+## Authors
+- Abdullahi Kawu
+- kbehrman
+- Stephen Welch
+- rcudacity
+- Sudhanshu Kulshrestha
+
+## Acknowledgements
+I give thanks to ALX, Udacity for opportunity to be a part of the program and course instructor, Kennedy Behrman, for making the course easy to apprenend.
